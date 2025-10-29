@@ -10,7 +10,7 @@ The program prints the LED behavior based on the current state.
 
 ### 💻 Output Example
 LED is OFF
-LED is OFF
+\nLED is OFF
 LED is OFF
 LED is ON
 LED is ON
