@@ -10,13 +10,13 @@ The program prints the LED behavior based on the current state.
 
 ### 💻 Output Example
 LED is OFF <br>
-LED is OFF
-LED is OFF
-LED is ON
-LED is ON
-LED is ON
-LED is BLINKING
-LED is BLINKING
+LED is OFF <br>
+LED is OFF <br>
+LED is ON <br>
+LED is ON <br>
+LED is ON <br>
+LED is BLINKING <br>
+LED is BLINKING <br>
 LED is BLINKING
 
 ### 🧩 Code File
