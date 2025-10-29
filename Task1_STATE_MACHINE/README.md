@@ -9,8 +9,8 @@ This task implements a simple LED state machine with three states:
 The program prints the LED behavior based on the current state.
 
 ### 💻 Output Example
+LED is OFF <br>
 LED is OFF
-\nLED is OFF
 LED is OFF
 LED is ON
 LED is ON
