@@ -10,10 +10,9 @@ Instead of using `delay()`, the LED toggles every 500 ms without blocking the ma
 - CPU-friendly loop with `Sleep(10)` to reduce usage.  
 
 ### 🛠️ **How It Works**  
-1. `previousLED` keeps track of the last time the LED changed state.  
+1. previousLED` keeps track of the last time the LED changed state.  
 2. The main loop continuously checks:
 
-```c
 if (currentMillis - previousLED >= ledInterval) { ... }
 
 3. The loop never stops, allowing future multitasking integration.
