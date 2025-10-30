@@ -15,7 +15,7 @@ int main() {
     while(1) {
         unsigned long currentMillis = millis();
 
-    // Task 1: LED Blink
+    // Task 2: LED Blink
         if (currentMillis - previousLED >= LED_interval)   // Checks if enough time (500ms) passed since the LED has Blinked
         {
             previousLED = currentMillis;
