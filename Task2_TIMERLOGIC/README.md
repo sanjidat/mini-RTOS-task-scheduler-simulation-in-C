@@ -19,11 +19,13 @@ if (currentMillis - previousLED >= ledInterval) { ... }
 
 
 ### 📁 **File Structure**
+<pre>
 Task2_TimerLogic/
 │
 ├─ LED_timerlogic.c     # C program for non-blocking LED blink
 ├─ LED_timerlogic.exe
 └─ README.md
+</pre>
 
 ### 💾 **Compilation Instructions (Windows)**
 
