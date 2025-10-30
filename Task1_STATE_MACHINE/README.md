@@ -8,7 +8,25 @@ This task implements a simple LED state machine with three states:
 
 The program prints the LED behavior based on the current state.
 
-### 💻 Output Example
+
+### 🧩 Code File
+`led_state_machine.c`
+
+### 🛠️ Compilation Instructions (Windows)
+
+1. Open terminal in the project folder.
+
+2. Compile the program:
+<pre>
+gcc LED_statemachine.c -o LED_statemachine
+</pre>
+
+3. Run the program:
+   <pre>
+     .\LED_statemachine
+   </pre>
+
+### 💻 Sample Output
 LED is OFF <br>
 LED is OFF <br>
 LED is OFF <br>
@@ -19,5 +37,3 @@ LED is BLINKING <br>
 LED is BLINKING <br>
 LED is BLINKING
 
-### 🧩 Code File
-`led_state_machine.c`
