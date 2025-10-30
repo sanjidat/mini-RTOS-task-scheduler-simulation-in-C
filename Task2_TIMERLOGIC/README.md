@@ -25,21 +25,21 @@ Task2_TimerLogic/
 ├─ LED_timerlogic.exe
 └─ README.md
 
-💾 Compilation Instructions (Windows)
+### 💾 **Compilation Instructions (Windows)**
 
 1. Open terminal in the project folder.
 
 2. Compile the program:
   <pre>
   gcc LED_timerlogic.c -o LED_timerlogic.exe
-  <\pre>
+  </pre>
 
 3. Run the program:
   <pre>
   .\LED_timerlogic.exe
-  <\pre>
-
-📊 Sample Output
+  </pre>
+    
+### 📊 **Sample Output**
 Day 2: Non-blocking LED Blink
 LED is ON <br>
 LED is OFF <br>
