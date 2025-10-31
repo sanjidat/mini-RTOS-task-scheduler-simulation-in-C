@@ -1,0 +1,18 @@
+LED is ON
+Hello! This Message prints every 2 seconds.
+Sensor Reading is 41
+LED is OFF
+LED is ON
+Sensor Reading is 67
+LED is OFF
+LED is ON
+Hello! This Message prints every 2 seconds.
+Sensor Reading is 34
+LED is OFF
+LED is ON
+Sensor Reading is 0
+LED is OFF
+LED is ON
+Hello! This Message prints every 2 seconds.
+Sensor Reading is 69
+LED is OFF
