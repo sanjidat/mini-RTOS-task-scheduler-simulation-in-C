@@ -1,0 +1,50 @@
+Task3: Multiple Independent Tasks
+LED is ON
+Hello! This message prints every 2 seconds.
+Sensor Reading: 41
+LED is OFF
+Sensor Reading: 67
+LED is ON
+LED is OFF
+Hello! This message prints every 2 seconds.
+Sensor Reading: 34
+LED is ON
+LED is OFF
+Sensor Reading: 0
+LED is ON
+LED is OFF
+Hello! This message prints every 2 seconds.
+Sensor Reading: 69
+LED is ON
+LED is OFF
+Sensor Reading: 24
+LED is ON
+LED is OFF
+Hello! This message prints every 2 seconds.
+Sensor Reading: 78
+LED is ON
+LED is OFF
+Sensor Reading: 58
+LED is ON
+LED is OFF
+Hello! This message prints every 2 seconds.
+Sensor Reading: 62
+LED is ON
+LED is OFF
+Sensor Reading: 64
+LED is ON
+LED is OFF
+Hello! This message prints every 2 seconds.
+Sensor Reading: 5
+LED is ON
+LED is OFF
+Sensor Reading: 45
+LED is ON
+LED is OFF
+Hello! This message prints every 2 seconds.
+Sensor Reading: 81
+LED is ON
+LED is OFF
+Sensor Reading: 27
+LED is ON
+LED is OFF
