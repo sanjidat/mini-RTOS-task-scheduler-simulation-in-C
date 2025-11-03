@@ -82,14 +82,14 @@ Instead of running one task at a time (blocking others), each task:
 - ⚙️ Environment: VS Code / Command Prompt
 ## 🚀 How to Run
 1. Clone the repository
-   <pre>
+<pre>
      git clone https://github.com/<your-username>/Project_Mini_RTOS.git
      cd Project_Mini_RTOS/Task4_MiniScheduler
-   </pre>
+</pre>
 2. Compile using GCC
-   <pre>
-  gcc mini_scheduler.c -o mini_scheduler
-  </pre>
+<pre>
+   gcc mini_scheduler.c -o mini_scheduler
+</pre>
 3. Run the program
 <pre>
   ./mini_scheduler > output_task4.txt
